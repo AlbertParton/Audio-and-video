@@ -1,0 +1,2 @@
+# Audio-and-video
+基于FFmpeg实现的Android视频播放器，实现对单一音视频的播放等功能；基于FFmpeg和SDL实现的Windows视频播放器，支持多线程解码和音视频同步播放
